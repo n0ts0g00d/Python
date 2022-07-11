@@ -48,6 +48,7 @@ Please adhere to this project's `code of conduct`.
 
 
 ## 🔗 Connect with me 
-[![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/mbk)
 
-[![Instagram](https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=)](https://www.instagram.com/m_bakrol)
+[![Telegram](https://img.shields.io/badge/-@mbk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mbk)
+
+[![Instagram](https://img.shields.io/badge/-@m_bakrol-red?color=white&logo=instagram&logoColor=)](https://www.instagram.com/m_bakrol)
