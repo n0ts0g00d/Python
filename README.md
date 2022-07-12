@@ -47,8 +47,9 @@ Please adhere to this project's `code of conduct`.
 - [@n0ts0g00d](https://github.com/n0ts0g00d)
 
 
-## 🔗 Connect with me 
+## 🔗 How to connect with me 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mbkrl)
 
 [![Instagram](https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=pin)](https://www.instagram.com/m_bakrol)
+
