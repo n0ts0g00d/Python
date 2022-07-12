@@ -4,7 +4,7 @@
 - This Repository contains Python basic codes that are used to build a 2D visual from the data using Python's Matplotlib library.
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png)
-## Data Visualization using Python - Matplotlib.
+## 🔗 Data Visualization using Python - Matplotlib.
 
 ![Logo](https://matplotlib.org/stable/_static/logo2.svg)
 
@@ -13,7 +13,7 @@
 - Matplotlib makes easy things easy and hard things possible.
 
 
-## Features
+## 🔗 Features
 
 - Create publication quality plots.
 - Make interactive figures that can zoom, pan, update.
@@ -22,18 +22,18 @@
 - Embed in JupyterLab and Graphical User Interfaces.
 - Use a rich array of third-party packages built on Matplotlib.
 
-## Screenshots
+## 🔗 Screenshots
 
 - This image represent the bar chart created using matplotlib
 
 ![App Screenshot](https://github.com/n0ts0g00d/Python/blob/main/Screenshots/barchart.png?raw=true)
 
 
-## License
+## 🔗 License
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/n0ts0g00d/Python/blob/main/LICENSE)
 
-## Contributing
+## 🔗 Contributing
 
 Contributions are always welcome!
 
@@ -42,7 +42,7 @@ See `contributing.md` for ways to get started.
 Please adhere to this project's `code of conduct`.
 
 
-## Owner
+## 🔗 Owner
 
 - [@n0ts0g00d](https://github.com/n0ts0g00d)
 
