@@ -53,3 +53,4 @@ Please adhere to this project's `code of conduct`.
 
 [![Instagram](https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=pin)](https://www.instagram.com/m_bakrol)
 
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Twitter)](https://twitter.com/MBakrol)
